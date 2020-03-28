@@ -1,0 +1,11 @@
+body {
+    background: rgb(87,204,215);
+    background: linear-gradient(90deg, rgba(87,204,215,1) 0%, rgba(83,231,255,1) 38%, rgba(255,255,255,1) 100%);
+}
+.container {
+    width: 300px;
+    margin: 20% auto;
+}
+.crossed {
+    text-decoration: line-through;
+}
